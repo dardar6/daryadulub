@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Darya</h1>
+<h1 align="center">Hi 👋, I'm Darya Dulub </h1>
+
+My skills include business analytics, data visualization and storytelling, Python, SOL
+
 <h3 align="center">Diligent and self-motivated data analyst</h3>
 
 - 📫 How to reach me **dulubdarya@gmail.com**
