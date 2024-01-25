@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">Diligent and self-motivated data analyst</h3>
+Diligent and self-motivated data analyst
 
 - 📫 How to reach me **dulubdarya@gmail.com**
 
