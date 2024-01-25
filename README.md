@@ -3,6 +3,9 @@
 
 
 Diligent and self-motivated data analyst
+In 2023, I enrolled in the TripleTen 7-month Data Analyst program. 
+The curriculum covered Python (Pandas, NumPy), data visualization (Matplotlib, Plotly, Tableau), machine learning (scikit-learn), SQL, and more.
+Feel free to contact me on Github or LinkedIn
 
 - 📫 How to reach me **dulubdarya@gmail.com**
 
